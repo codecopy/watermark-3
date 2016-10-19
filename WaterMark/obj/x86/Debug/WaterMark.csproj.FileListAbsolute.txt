@@ -1,0 +1,9 @@
+E:\Project\MY_Prj\MyCustom\WaterMark\WaterMark\bin\Debug\WaterMark.exe
+E:\Project\MY_Prj\MyCustom\WaterMark\WaterMark\bin\Debug\WaterMark.pdb
+E:\Project\MY_Prj\MyCustom\WaterMark\WaterMark\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\MY_Prj\MyCustom\WaterMark\WaterMark\obj\x86\Debug\WaterMark.FrmMain.resources
+E:\Project\MY_Prj\MyCustom\WaterMark\WaterMark\obj\x86\Debug\WaterMark.Properties.Resources.resources
+E:\Project\MY_Prj\MyCustom\WaterMark\WaterMark\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Project\MY_Prj\MyCustom\WaterMark\WaterMark\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Project\MY_Prj\MyCustom\WaterMark\WaterMark\obj\x86\Debug\WaterMark.exe
+E:\Project\MY_Prj\MyCustom\WaterMark\WaterMark\obj\x86\Debug\WaterMark.pdb
